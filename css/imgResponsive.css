@@ -23,7 +23,9 @@
 .iconos{
     width:50px;
 }
-
+.frase-index{
+    padding-top: 20%;
+}
 
 /*Media Query Para una vista mediana*/
 @media screen and (max-width:814px){
@@ -51,5 +53,7 @@
     .item img{
         width:100%!important;
     }
-
+    .frase-index{
+        padding: 65% 10% 0 10%;
+    }
 }
