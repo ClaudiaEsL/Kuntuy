@@ -22,6 +22,6 @@
 /*Media Query Para una vista movil*/
 @media screen and (max-width:600px){
     .icono-whatsapp{
-        width:20%;
+        width:12%;
     }
 }
