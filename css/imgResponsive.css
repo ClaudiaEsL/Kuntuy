@@ -31,7 +31,7 @@
 /*Media Query Para una vista movil*/
 @media screen and (max-width:600px){
     .templateux-cover{
-        background-image: url(/public_html/images/imagenes-pequeñas/imagen_fondo_pequeña.png)!important;
+        background-image: url(../images/imagenes-pequeñas/imagen_fondo_pequeña.png)!important;
         background-size: contain !important;
         background-repeat: no-repeat;
     }
