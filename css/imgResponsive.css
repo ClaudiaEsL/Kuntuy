@@ -30,9 +30,15 @@
 
 /*Media Query Para una vista mediana*/
 @media screen and (max-width:814px){
+    .frase-index{
+        padding-top: 50%;
+    }
 }
 /*Media Query Para una vista movil*/
 @media screen and (max-width:600px){
+    .frase-index{
+        padding-top: 20%;
+    }
     /*Color de menu*/
     .menu-color{
         background-color: rgb(111, 185, 166)!important;
