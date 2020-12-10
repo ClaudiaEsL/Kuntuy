@@ -14,7 +14,8 @@
 .precio{
     box-shadow:1px 1px 8px 1px rgb(189, 189, 189);
     font-size:20px;
-    border-radius: 10px;;
+    border-radius: 10px;
+    color:rgba(0, 0, 0, 0.658);
 }
 #entregas{
     width:100%!important;
