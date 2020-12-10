@@ -1,6 +1,7 @@
 #titulo{
     display:none;
 }
+
 .heading-up{
     color:rgba(0, 0, 0, 0.658) !important;
 }
@@ -32,6 +33,14 @@
 }
 /*Media Query Para una vista movil*/
 @media screen and (max-width:600px){
+    /*Color de menu*/
+    .menu-color{
+        background-color: rgb(102, 204, 177);
+    }
+    /*letras al principio*/
+    .texto-principal{
+        color: rgb(22, 22, 22) !important;
+    }
     .templateux-cover{
         background-image: url(../images/imagenes-pequeñas/imagen_fondo_pequeña.png)!important;
         background-size: contain !important;
