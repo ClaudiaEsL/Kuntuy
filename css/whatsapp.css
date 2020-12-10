@@ -8,12 +8,12 @@
     bottom:4%;
     right:3%;
     z-index:100;
-    background-color:rgb(124, 202, 124);
+    background-color:rgb(139, 231, 139);
     border-radius: 50%;
     box-shadow: 0px 2px 5px 0px rgb(71, 71, 71);
 }
 .icono-whatsapp:hover{
-    background-color:rgb(96, 197, 38);
+    background-color:rgb(238, 238, 238);
     transition: 1s;
 }
 .icono-whatsapp img{
