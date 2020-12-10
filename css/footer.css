@@ -22,7 +22,7 @@
     border-radius: 50%;
 }
 .buttonUp:hover{
-    background-color:rgb(219, 209, 149);
+    background-color: rgb(102, 204, 177);
     transition: 0.5s;
     color: rgba(0, 0, 0, 0.432);
 }
