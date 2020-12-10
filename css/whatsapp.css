@@ -2,8 +2,8 @@
     width: 100%;
 }
 .icono-whatsapp{
-    width:5%;
-    padding: 1.2%;
+    width: 80px;
+    padding: 1%;
     position: fixed;
     bottom:4%;
     right:3%;
@@ -22,10 +22,10 @@
 /*Media Query Para una vista movil*/
 @media screen and (max-width:600px){
     .icono-whatsapp{
-        width:12%;
+        width:16%;
     }
     .icono-whatsapp{
-        right:12%;
+        right:5%;
         bottom:5%;
     }
 }
