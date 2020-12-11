@@ -34,7 +34,7 @@
     }
 }
 /*Media Query Para una vista movil*/
-@media screen and (max-width:600px){
+@media screen and (max-width:763px){
     .frase-index{
         padding-top: 20%;
     }
