@@ -21,6 +21,31 @@
     width:100%!important;
     padding-bottom: 10%;
 }
+
+/*Efecto hover*/
+.media-body{
+    animation:animacion-ver 2s infinite;
+}
+.img-1:hover{
+    display: none;
+    animation-name:animacion-conversion;
+    animation-duration: 5s;
+}
+@keyframes animacion-conversion{
+    0%{background-color: rgba(0, 0, 0, 0.404);}
+    50%{background-color: rgba(0, 0, 0, 0.404);}
+    100%{background-color: rgba(0, 0, 0, 0.74);}
+}
+@keyframes animacion-ver{
+    from{
+        display: block;
+    }
+    to{
+        display: none ;
+    }
+
+}
+
 /*Media Query Para una vista movil*/
 @media screen and (max-width:600px){
     .titulos-productos{
